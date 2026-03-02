@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Bruno Abreu
 
-**`Desenvolvedora de Software`**
+**`Desenvolvedor de Software`**
 
 Me chamo Bruno Abreu, tenho 19 anos. Concluí o ensino médio no IFSP, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software, gosto muito de tecnologia e desenvolvimento.
 
@@ -38,7 +38,7 @@ Me chamo Bruno Abreu, tenho 19 anos. Concluí o ensino médio no IFSP, com o cur
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
